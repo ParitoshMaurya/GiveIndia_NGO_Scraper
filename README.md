@@ -21,4 +21,4 @@ You can install requests library using following code in your terminal in Linux.
 
 `pip3 install requests`
 
-After finishing installation process above, you can run the tasks, using `python3 giveindiaScdraper.py` and you will get an JSON file `scraped_data.json` in which scraped data is stored.
+After finishing installation process above, you can run the tasks, using `python3 giveindiaScdraper.py` and you will get a JSON file `scraped_data.json` in which scraped data is stored.
